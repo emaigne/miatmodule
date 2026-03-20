@@ -1,3 +1,3 @@
-module forge.inrae.fr/elisemaigne/wowchemy-hugo-themes/modules/wowchemy/v5
+module github.com/elisemaigne/miatmodule/v5.6.0
 
 go 1.15
