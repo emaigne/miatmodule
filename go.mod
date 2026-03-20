@@ -1,3 +1,3 @@
-module github.com/elisemaigne/miatmodule/v5.6.0
+module github.com/elisemaigne/miatmodule
 
 go 1.15
