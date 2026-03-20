@@ -1,0 +1,10 @@
+############################
+## HUGO MODULES
+## Install or uninstall themes and plugins here.
+## Docs: https://gohugo.io/hugo-modules/
+############################
+
+imports:
+  - path: https://forge.inrae.fr/elisemaigne/wowchemy-hugo-themes/modules/blox-plugin-decap-cms
+  - path: https://forge.inrae.fr/elisemaigne/wowchemy-hugo-themes/modules/blox-plugin-netlify
+  - path: https://forge.inrae.fr/elisemaigne/wowchemy-hugo-themes/modules/blox-bootstrap/v5
